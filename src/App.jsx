@@ -113,7 +113,7 @@ export default function App() {
         boxShadow: '0 2px 5px rgba(0,0,0,0.1)'
       }}>Have fun building your application!</p>
       <p style={{
-        color: '#f39c12',
+        color: 'pink',
         fontSize: '1.1rem',
         marginBottom: '15px',
         padding: '10px',
