@@ -17,7 +17,7 @@ export default function App() {
         fontSize: '2.5rem',
         marginBottom: '30px',
         textShadow: '2px 2px 4px rgba(0,0,0,0.1)'
-      }}>Hello, World!</h1>
+      }}>Hello, Laxman!</h1>
       <p style={{
         color: '#34495e',
         fontSize: '1.1rem',
